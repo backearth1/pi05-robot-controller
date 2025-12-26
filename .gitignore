@@ -24,6 +24,5 @@ models/
 # Temp files
 /tmp/
 
-# MuJoCo/Robosuite
-mujoco/
-lerobot/
+# Outputs
+outputs/
